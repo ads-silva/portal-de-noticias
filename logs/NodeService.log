@@ -1,0 +1,14 @@
+consign v0.1.6 Initialized in C:\Users\Dev\Documents\curso_node
++ .\app\routes\admin.js
++ .\app\routes\home.js
++ .\app\routes\noticias.js
++ .\config\dbConnection.js
++ .\app\models\NoticiasDao.js
++ .\app\controllers\admin.js
++ .\app\controllers\home.js
++ .\app\controllers\noticias.js
+Auto load carregou dbConnection
+Servidor Rodando com Express
+Conexão criada.
+Conexão criada.
+Conexão criada.
