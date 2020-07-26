@@ -14,4 +14,4 @@ News portal model using knowledge from the node.js course.
 
 ## Authors
 
-* **Adauto de Souza Silva** - *Initial work* - [Dautodroid](https://github.com/Dautodroid)
+* **Adauto de Souza Silva** - *Initial work* - [ads-silva](https://github.com/ads-silva)
